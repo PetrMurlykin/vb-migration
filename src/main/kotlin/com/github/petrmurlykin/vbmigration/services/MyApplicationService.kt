@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.petrmurlykin.vbmigration.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.petrmurlykin.vbmigration.MyBundle
 
 class MyApplicationService {
 
